@@ -1,6 +1,9 @@
 # AnimationScripts
 A few scripts regarding unity animations I've found useful for myself.
 
+## Parameter Renamer
+Renames a parameter across the entire avatar. Includes: Transitions, Menus, Expression Parameters, Controller Parameters, Blendtree parameters.
+
 ## AnimationRepather
 Shows all objects modified by animations in a controller to allow for repathing. Probably a worse version of something Dreadrith made IDK.
 
